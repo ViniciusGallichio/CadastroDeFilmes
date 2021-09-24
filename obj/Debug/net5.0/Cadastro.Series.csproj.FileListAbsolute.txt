@@ -1,0 +1,48 @@
+C:\Users\PICHAU\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.exe
+C:\Users\PICHAU\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.deps.json
+C:\Users\PICHAU\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.json
+C:\Users\PICHAU\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.dev.json
+C:\Users\PICHAU\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.dll
+C:\Users\PICHAU\Cadastro.Series\bin\Debug\net5.0\ref\Cadastro.Series.dll
+C:\Users\PICHAU\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.pdb
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.csprojAssemblyReference.cache
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.AssemblyInfo.cs
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.dll
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\ref\Cadastro.Series.dll
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.pdb
+C:\Users\PICHAU\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.genruntimeconfig.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.exe
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.deps.json
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.json
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.dev.json
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\bin\Debug\net5.0\ref\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\bin\Debug\net5.0\Cadastro.Series.pdb
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.csprojAssemblyReference.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.AssemblyInfoInputs.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.AssemblyInfo.cs
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.csproj.CoreCompileInputs.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\ref\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.pdb
+E:\Vini\Visual Code\C# in visual code\Cadastro.Series\obj\Debug\net5.0\Cadastro.Series.genruntimeconfig.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Series.exe
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Series.deps.json
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.json
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Series.runtimeconfig.dev.json
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\bin\Debug\net5.0\ref\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Series.pdb
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.csprojAssemblyReference.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.AssemblyInfoInputs.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.AssemblyInfo.cs
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.csproj.CoreCompileInputs.cache
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\ref\Cadastro.Series.dll
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.pdb
+E:\Vini\Visual Code\C# in visual code\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Series.genruntimeconfig.cache
